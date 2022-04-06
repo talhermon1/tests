@@ -1,1 +1,5 @@
-5555555
+mkdir dir
+git init
+git config --global user.email talking965@gmail.com
+git config --global user.name talhermon1
+git remote set-url origin https://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@github.com/talhermon1/tests.git
